@@ -6,3 +6,5 @@
 功能完善，有用的，写的比较满意的一个，作为中期cpp学习的结束点，也是新的起点
 ### linklistimplement.cpp
 底层实现链表的简单代码
+### MiniStringClass.cpp
+移动语义练手
